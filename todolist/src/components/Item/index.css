@@ -1,0 +1,17 @@
+.todo_item {
+	list-style: none;
+	height: 45px;
+	padding-top: 6px;
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow: hidden;
+}
+
+li .todo_btn {
+	float: right;
+	width: 58px;
+}
+
+.todo_name {
+	color: #013a63;
+}

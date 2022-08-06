@@ -1,0 +1,12 @@
+.todo_footer {
+	height: 30px;
+	margin-bottom: 6px;
+}
+
+div .todo_btn {
+	float: right;
+}
+
+.footer_info {
+	color: #013a63;
+}
