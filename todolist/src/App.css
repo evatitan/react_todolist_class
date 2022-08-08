@@ -1,0 +1,30 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.todo_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 60px;
+  width: 360px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.todo_btn {
+  color: #013a63;
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid #013a63;
+  background-color: #e5e5e5;
+}
+
+.todo_btn:hover {
+  background-color: #e5e5e5;
+  color: #f94144;
+  border: 1px solid #f94144;
+}
